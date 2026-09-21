@@ -1,4 +1,4 @@
-# JAVA-DSA
+# 🧠 JAVA-DSA
 Data Structures And Algorithms Practice And Problem Solving Using Java.
 
 ## 📚 Topics Covered -
@@ -16,7 +16,7 @@ Data Structures And Algorithms Practice And Problem Solving Using Java.
 - Trees
 - Dynamic Programming
 
-  ## Language
+  ## 💻 Language
   Java
 
   ## 🎯Purpose
